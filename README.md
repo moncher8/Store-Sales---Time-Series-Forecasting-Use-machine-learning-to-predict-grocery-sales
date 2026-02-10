@@ -1,4 +1,4 @@
-[fe-xgm-nested-final.md](https://github.com/user-attachments/files/25199906/fe-xgm-nested-final.md)```python
+```python
 # This Python 3 environment comes with many helpful analytics libraries installed
 # It is defined by the kaggle/python Docker image: https://github.com/kaggle/docker-python
 # For example, here's several helpful packages to load
@@ -1607,4 +1607,3 @@ print('Saved -> /kaggle/working/submission_nested_xgb.csv')
 
 Reference:
 mirinaepark/store-sales-time-series-forecasting -p /path/to/dest
-
