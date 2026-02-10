@@ -77,6 +77,4 @@ jupyter notebook fe-xgm-nested-final.ipynb
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)
 - [Optuna Documentation](https://optuna.org/)
 
-## 라이선스
 
-이 프로젝트는 교육 및 연구 목적으로 제공됩니다.
